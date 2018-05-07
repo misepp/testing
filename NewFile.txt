@@ -1,1 +1,2 @@
 Hello. Inital content for the file.
+Let's add some content to the file
