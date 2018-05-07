@@ -1,2 +1,4 @@
 Hello. Inital content for the file.
+Let's add some content to the file
 Testing if we can get a merge conflict.
+
