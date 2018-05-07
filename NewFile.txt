@@ -1,1 +1,2 @@
 Hello. Inital content for the file.
+Testing if we can get a merge conflict.
