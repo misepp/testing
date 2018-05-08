@@ -1,6 +1,7 @@
 Hello. Inital content for the file.
 Here is change from toinen_testi.
 Let's add some content to the file
+HERE is change from mikon_testi.
 Testing if we can get a merge conflict.
 More text.
 
