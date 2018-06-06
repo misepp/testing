@@ -1,0 +1,112 @@
+[33mcommit 06e416ae3e4706cd4a51a65805fdb6085d0c2a3e[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 08:09:05 2018 +0300
+
+    testin.
+
+[33mcommit c94347bcb592c154da942cca02e8ee915d98a497[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 08:07:26 2018 +0300
+
+    Minor addition.
+
+[33mcommit bc8dfbd0ba81268bd1222070b4795977966741b4[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 08:04:56 2018 +0300
+
+    testin from mikon_testi.
+
+[33mcommit ebed7fd63f346e38ec719b4d09b6573e0fc8f3c2[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 07:55:31 2018 +0300
+
+    Yet another change.
+
+[33mcommit 15a3d065993f20f904d9ea4c319d94ae6968cef4[m
+Merge: 9267432 66d54dd
+Author: misepp <mikko.seppanen123@gmail.com>
+Date:   Tue May 8 07:46:44 2018 +0300
+
+    Merge pull request #3 from misepp/mikon_testi
+    
+    Mikon testi
+
+[33mcommit 66d54dd8e19155c325abdcd95048a93572e174b3[m
+Merge: 1151f1a aa34b2d
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 07:45:30 2018 +0300
+
+    Merge branch 'mikon_testi' of https://github.com/misepp/testing into mikon_testi
+
+[33mcommit 1151f1af66d28425027963f29eb1fb7eaec014a7[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 07:26:57 2018 +0300
+
+    change from mikon_testi.
+
+[33mcommit 92674320f4856cf51ba15b7783a0de7abb5c9567[m
+Merge: 072b5d9 aa34b2d
+Author: misepp <mikko.seppanen123@gmail.com>
+Date:   Tue May 8 07:36:28 2018 +0300
+
+    Merge pull request #2 from misepp/mikon_testi
+    
+    change from mikon_testi.
+
+[33mcommit 072b5d98bbe20490a7cecc58decd668405f40c2c[m
+Merge: 54782bb 11d090d
+Author: misepp <mikko.seppanen123@gmail.com>
+Date:   Tue May 8 07:33:32 2018 +0300
+
+    Merge pull request #1 from misepp/toinen_testi
+    
+    change from toinen_testi.
+
+[33mcommit 11d090d23650b4c548a1189e6f38cf9593139ce0[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 07:30:03 2018 +0300
+
+    change from toinen_testi.
+
+[33mcommit aa34b2dc118aa454435f1c697efb76e881075157[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Tue May 8 07:26:57 2018 +0300
+
+    change from mikon_testi.
+
+[33mcommit 54782bbc54f038d6728672b8b1a99aba2a9cdfb5[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Mon May 7 16:48:06 2018 +0300
+
+    More changes.
+
+[33mcommit fc0d58228eab420262a078e191cd688db8147334[m
+Merge: 2763ede ecda1e9
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Mon May 7 16:44:12 2018 +0300
+
+    Merge branch 'master' of https://github.com/misepp/testing
+
+[33mcommit 2763edefeaeb40183f86e5ec23ea6e413e7798df[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Mon May 7 16:39:48 2018 +0300
+
+    Possible merge conflict.
+
+[33mcommit ecda1e97985492217e610aa5d7b975a7f4c7fe3a[m
+Author: misepp <mikko.seppanen123@gmail.com>
+Date:   Mon May 7 13:25:37 2018 +0000
+
+    Update NewFile.txt
+
+[33mcommit 5b557f9e955c8cea4fe337fba8f1a982ad4f0774[m
+Author: Mikko Seppänen <mikko.seppanen@elektrobit.com>
+Date:   Mon May 7 16:21:13 2018 +0300
+
+    Initial commit of a new file
+
+[33mcommit 0eed405dfb0f2a1e830c2359b8b40dc509e38b74[m
+Author: misepp <mikko.seppanen123@gmail.com>
+Date:   Mon May 7 13:16:10 2018 +0000
+
+    Initial commit
