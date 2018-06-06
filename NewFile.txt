@@ -3,12 +3,8 @@ Here is change from toinen_testi.
 mikon_testi lisäys ja vielä lisää
 Let's add some content to the file
 HERE is change from mikon_testi.
-##mikon_testi##
 Testing if we can get a merge conflict.
 Stuff from toinen_testi.
 More text.
-Adding stuf from toinen_testi
-Adding text from detached.
-
 
 
