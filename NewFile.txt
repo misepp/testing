@@ -6,5 +6,7 @@ HERE is change from mikon_testi.
 Testing if we can get a merge conflict.
 Stuff from toinen_testi.
 More text.
+Adding text from detached.
+
 
 
